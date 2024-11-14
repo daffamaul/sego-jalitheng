@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jalitheng</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Nov 2024 02:38:32 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>Another Post</title>
+		<link>/another-post/</link>
+					<comments>/another-post/#respond</comments>
+		
+		<dc:creator><![CDATA[daffa]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 02:38:32 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">/?p=17</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large is-style-default"><img fetchpriority="high" decoding="async" width="4694" height="6454" data-id="15" src="/wp-content/uploads/2024/11/museum-of-new-zealand-te-papa-tongarewa-oacclkMPLlA-unsplash.jpg" alt="" class="wp-image-15"/></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="nyore afk. TOPUP : GAMINGJON.COM #kotakitarp" width="1290" height="726" src="https://www.youtube.com/embed/VOZDjC3rmQM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/another-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Post</title>
+		<link>/about/</link>
+					<comments>/about/#respond</comments>
+		
+		<dc:creator><![CDATA[daffa]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 02:29:01 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<category><![CDATA[Amphibians]]></category>
+		<category><![CDATA[animals]]></category>
+		<guid isPermaLink="false">/?p=12</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Qui doloremque provident est molestiae harum eum distinctio maxime hic omnis iste qui asperiores facere sit nesciunt voluptatem est [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="6000" height="3373" src="/wp-content/uploads/2024/11/zachary-spears-IniemNK2HtE-unsplash.jpg" alt="" class="wp-image-13"/></figure>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Qui doloremque provident est molestiae harum eum distinctio maxime hic omnis iste qui asperiores facere sit nesciunt voluptatem est tempore enim! Ea sapiente internos ad impedit sunt ad omnis rerum ut quia internos quo galisum blanditiis aut porro officiis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/about/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halo dunia!</title>
+		<link>/halo-dunia/</link>
+					<comments>/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[daffa]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 16:57:06 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
